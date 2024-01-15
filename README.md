@@ -6,4 +6,4 @@
 📫 How to reach me ...
 FB : https://www.facebook.com/maybemahiiii
 
-Live Link : https://devgurumahdi.github.io/Netflix-Clone/
+Live Link : https://maybemahdi.github.io/Netflix-Clone/
